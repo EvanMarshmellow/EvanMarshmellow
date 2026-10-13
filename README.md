@@ -7,5 +7,8 @@ I am a current Computer Science student at the University of Washington interest
 
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4958dec2-196b-43ea-92a2-bc329f213fa7" />  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c30c58cd-60c7-4081-8b01-630e438a612e" />
 
-- 📫 How to reach me: evanmarshall371@gmail.com
+- 📫 How to reach me:
+- evanmarshall371@gmail.com
+- https://www.linkedin.com/in/evan-marshall-08b027293/
+
 
